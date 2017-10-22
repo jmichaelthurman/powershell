@@ -4,3 +4,4 @@ get-process -Name Code
 Set-
 
 Get-ADUserAccountControl
+Get-ADComputerSite
